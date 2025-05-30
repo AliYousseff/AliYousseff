@@ -1,6 +1,10 @@
 <div align="center" width="50">
 
+<!-- الصورة الثابتة الكبيرة -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+
+<!-- الصورة المتحركة الأصغر -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <h2>Ali Youssef</h2>
 
