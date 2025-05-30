@@ -4,8 +4,7 @@
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>  
 <br>
-<img src="https://avatars.githubusercontent.com/u/143129960?v=4" width="150" style="border-radius: 50%" alt="Ali Youssef" />
-<br>
+
 
 # 👋 Hi, I'm Ali Youssef
 
