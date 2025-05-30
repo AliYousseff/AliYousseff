@@ -1,36 +1,35 @@
-<div align="center">
+<div align="center" width="50">
 
-<h1>Hi 👋, I'm Ali Youssef</h1>
-<h3>A passionate Front-End Developer in progress 🚀</h3>
+<img src="https://github.com/AliYousseff/AliYousseff/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/AliYousseff/AliYoussef/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<p>
-  I'm currently learning <strong>JavaScript</strong> while building cool interfaces with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Bootstrap</strong>. I'm on a journey to become a skilled front-end developer who builds clean and responsive web apps.
-</p>
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
----
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
-### 🛠️ Tech Stack I Use So Far:
-- ✅ HTML
-- ✅ CSS
-- ✅ Bootstrap
-- 🔄 JavaScript (In Progress)
+</details>
 
----
-
-### 📫 Connect with me:
-- GitHub: [AliYousseff](https://github.com/AliYousseff)
-- LinkedIn: [Ali Youssef](https://linkedin.com/in/ali-youssef-8b264a323)
-- Telegram: [@AliYoussefDev](https://t.me/AliYoussefDev)
-
----
-
-### 📌 Fun Facts:
-- I enjoy building user interfaces and seeing my code come to life on the browser 🧠
-- Always curious and learning something new ☕
-- I'm passionate about clean code and beautiful design 🎨
-
----
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliYousseff&show_icons=true&theme=radical)
-
+![Totals Hits](https://komarev.com/ghpvc/?username=AliYousseff&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAliYousseff&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/AliYoussefDev-grey?style=flat&logo=telegram)](https://t.me/AliYoussefDev) <br>
 </div>
+
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+```js
+// tools_I_use organized
+
+class AboutAli { 
+  const myTools = {  
+    "Languages" : { "HTML", "CSS", "Bootstrap" },
+    "Learning" : { "JavaScript" }
+  };
+}
