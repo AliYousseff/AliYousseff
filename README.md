@@ -8,6 +8,11 @@
 
 # 👋 Hi, I'm Ali Youssef
 
+<p style="max-width: 450px; font-size: 16px; color: #666;">
+I'm a passionate Front-End Developer learning JavaScript and building clean, responsive web interfaces using HTML, CSS, and Bootstrap.
+I'm excited to keep growing my skills, contribute to open source, and collaborate on meaningful projects.
+</p>
+
 </div>
 
 ---
@@ -15,10 +20,10 @@
 ## 🧑‍💻 About Me
 
 I'm a Front-End Developer currently learning JavaScript and working with:
-- HTML
-- CSS
-- Bootstrap
-- JavaScript (in progress)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="18" /> HTML  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="18" /> CSS  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="18" /> Bootstrap  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="18" /> JavaScript (in progress)
 
 I enjoy building clean, interactive UIs and always looking to improve my skills.  
 Looking forward to collaborating on open source and personal web projects!
@@ -70,4 +75,19 @@ Looking forward to collaborating on open source and personal web projects!
 > Coming soon as I publish more projects! Stay tuned.
 
 ---
+
+## 📂 Current Projects
+
+- Building responsive web pages with HTML, CSS, and Bootstrap.  
+- Improving my JavaScript skills through small interactive projects and tutorials.  
+- Exploring Git and GitHub workflows to manage code efficiently.  
+
+---
+
+## 📄 Resume / CV
+
+You can download my resume here:  
+[Download PDF](https://example.com/your-resume.pdf) 
+
+
 
